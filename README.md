@@ -81,4 +81,4 @@ This repository documents my structured learning, labs, certifications, and care
 ## 🎯 Career Goals
 
 - Achieve SOC Tier 1 Analyst role by 2025
-- Transition into Red Team or Penetration Testing track by 2026
+- Transition into Red Team or Penetration Testing track by 2027 INSHALLAH
